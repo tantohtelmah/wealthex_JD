@@ -1,0 +1,23 @@
+
+.body{
+    background-color: rgb(238, 213, 181);
+    margin: 0px;
+}
+.header{
+    background-color: rgb(6, 6, 199);
+}
+.aside{
+    background-color: white;
+    float: right;
+    width: 400px;
+    margin: 5px;
+    padding: 10px;
+
+}
+.p{
+    font-size: 25px;
+    color: white;
+}
+.h2{
+    background-color: rgb(215, 132, 223);
+}
